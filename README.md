@@ -30,6 +30,7 @@ Curated Intelligence is working with analysts from around the world to provide u
 | Source | Threat(s) | URL |
 | --- | --- | --- |
 | Symantec | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [symantec-enterprise-blogs.security.com](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine) |
+| AdaptiveMobile | HiddenArt | [adaptivemobile.com](https://blog.adaptivemobile.com/the-hunt-for-hiddenart) |
 | PAN Unit42 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/) |
 | @500mk500 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/500mk500](https://twitter.com/500mk500/status/1497339266329894920?s=20&t=opOtwpn82ztiFtwUbLkm9Q) |
 | @500mk500 | Gamaredon/Shuckworm/PrimitiveBear (FSB) | [twitter.com/500mk500](https://twitter.com/500mk500/status/1497208285472215042)|
